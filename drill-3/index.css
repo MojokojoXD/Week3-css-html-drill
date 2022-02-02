@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(216,216, 216);
+    margin: 0;
+}
+
+div{
+    display: flex;
+    height: 10vh;
+}
+
+p{
+    margin-left: 20px;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+.sectionBox{
+    position: relative;
+    background-color: #5b8fdc;
+    height: 5vh;
+    width: 5vh;
+    margin-left: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.paragraphSection{
+    background-color: rgb(255,255, 255);
+    height : 20vh;
+}
+
+.section1{
+    background-color: #5b8fdc;
+        height: 20vh;
+}
+
+.section2{
+    background-color: #7be0c3;
+    height: 20vh;
+}
+
+.section3{
+    background-color: #c2e791;
+    height: 20vh;
+}
+
+.section4{
+    background-color: #f5e752;
+    height: 20vh;
+}
