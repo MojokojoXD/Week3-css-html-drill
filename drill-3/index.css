@@ -1,31 +1,29 @@
 body{
     background-color: rgb(216,216, 216);
     margin: 0;
+    height: 100%;
 }
 
 div{
     display: flex;
-    height: 10vh;
+    height: 40%;
 }
 
 p{
-    margin-left: 20px;
-    margin-bottom: auto;
-    margin-top: auto;
+    width: 80%;
+    margin: auto;
+    line-height: 1.5em;
 }
 .sectionBox{
-    position: relative;
     background-color: #5b8fdc;
-    height: 5vh;
-    width: 5vh;
-    margin-left: 10px;
-    margin-top: auto;
-    margin-bottom: auto;
+    height: 50px;
+    width: 50px;
+    margin: 20px;
 }
 
 .paragraphSection{
     background-color: rgb(255,255, 255);
-    height : 20vh;
+    height : 40%;
 }
 
 .section1{
