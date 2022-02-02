@@ -1,0 +1,67 @@
+body{
+    margin: 20px;
+}
+div{
+    margin: 20px;
+}
+.topBox {
+    display: flex;
+    border: 5px solid black;
+    height: 220px;
+    align-items: flex-end;
+}
+
+.purpleRec{
+    /* position: relative; */
+    background-color: rgb(138,43,226);
+    height: 60%;
+    width: 50px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+}
+
+.greenRec{
+    background-color: rgb(34,139,34);
+    height: 90%;
+    width: 400px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+}
+
+.blueCir{
+    background-color: rgb(135,206,235);
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.dottedRec{
+    border: 5px dotted black;
+    height: 300px;
+}
+
+.shadowedBox{
+    position: relative;
+    background-color: rgb(255,250,205);
+    height: 70%;
+    width:  95%;
+    margin: 50px 50px 50px 50px;
+    box-shadow: 20px 10px 2px 1px rgb(64,64,64);
+}
+
+.textBox{
+    border: 1px outset gray;
+    border-style: outset none none outset;
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+    box-shadow: 10px 5px 2px gray;
+}
+
+h1{
+    color:rgb(0,0,128);
+    text-align: center;
+    padding: 20px;
+    margin-top: 20%;
+}
